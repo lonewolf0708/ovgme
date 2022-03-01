@@ -31,7 +31,7 @@ OvGME implements the following key features:
 - Detailed embeded Help.
 
 
-####################################################################
-## If you already use JSGME, Please read the "OvGME and JSGME"    ##
-## chapter in the embedded help carefully before doing anything.  ##
-####################################################################
+##################################################################
+# If you already use JSGME, Please read the "OvGME and JSGME"    #
+# chapter in the embedded help carefully before doing anything.  #
+##################################################################
